@@ -1,0 +1,20 @@
+A structure is a user defined data type that can be used to 
+group elements of different type into as single unit.
+
+-> structure can be passed as an argument as like variables
+
+-> when we are passing an array we are passing the 
+address of the first index which is reference;
+-> In case of structure we are passing the copy 
+a variable and not a pointer so it is call by value 
+and not by reference.
+
+-> when the structure is very large then it is not a 
+good practice to pass the copy of whole structure
+
+-> Better choice is to pass the address of the structure
+
+->memory created in heap will remain constant,so when we 
+pass adddress it is better to create memory in heap
+
+->Array of structure as argument
