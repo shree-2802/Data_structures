@@ -1,0 +1,3 @@
+singly linked list  - navigation is forward
+doubly linked list  - navigation is both forward and backward
+circular linked list -last is linked to the first

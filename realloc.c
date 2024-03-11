@@ -1,3 +1,5 @@
+//realloc requires 2 parameter one is the pointer to the previous memory and the new size
+
 #include <stdio.h>
 #include <stdlib.h>
 

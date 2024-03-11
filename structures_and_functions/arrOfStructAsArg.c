@@ -7,6 +7,7 @@ struct charset
     int num;
     char ch;
 };
+
 void print(struct charset arr[])
 {
     // here array is a pointer to the first element of the array and not the array itself
